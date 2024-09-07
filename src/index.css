@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  width: 100%;
+  height: auto;
+  background: linear-gradient(
+    108.81deg,
+    #7c8761 -21.51%,
+    #80af81 36.42%,
+    rgba(26, 83, 25, 0.9) 87.8%
+  );
+}
+body.darkMode {
+  background: linear-gradient(
+    109deg,
+    #4c5537 -21.51%,
+    #4d724e 36.42%,
+    rgba(9, 41, 9, 0.9) 87.8%
+  );
+}
+* {
+  font-family: "Poppins", sans-serif;
+}
